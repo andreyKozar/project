@@ -1,3 +1,3 @@
 # project
 
-Use docker
+Use docker.
